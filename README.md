@@ -103,6 +103,6 @@ Execute the program
 # OUPUT
 ![timetable](timetable.png)
 
-#Result
+# Result
 The program for creating time table is completed successfully
 
